@@ -1,22 +1,20 @@
 <div align="center">
+  <br/>
   <h1>Estevam Carnecine</h1>
-  <p align="center">
-    Bem-vindo ao meu GitHub (Welcome to my GitHub) :)
-  </p>
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Bem-vindo+ao+meu+GitHub;Welcome+to+my+GitHub;[root@estevam:~]%23+_" alt="Terminal Welcome" />
 </div>
 
 <br />
 
 ### 📖 Sobre
-Estudante de **Análise e Desenvolvimento de Sistemas (UNIP)** no 3º semestre. Focado no ecossistema **Java** e em arquiteturas modernas. Em transição de carreira para tecnologia, aplicando fluência em inglês e resolução de problemas complexos no desenvolvimento de sistemas robustos e escaláveis.
+Estudante de **Análise e Desenvolvimento de Sistemas (UNIP)** no 3º semestre. Focado no ecossistema **Java** e em arquiteturas modernas. Em transição de carreira para tecnologia, aplicando fluência em inglês e resolução de problemas na construção de sistemas robustos.
 
 ---
 
 ### 💻 Stack & Ferramentas
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,ts,nextjs,mongodb,postgres,docker,git,maven,mysql&theme=dark" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=java,spring,ts,nextjs,mongodb,postgres,docker,git,maven,mysql&theme=dark" />
 </div>
 
 ---
