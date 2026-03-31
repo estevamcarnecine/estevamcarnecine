@@ -2,7 +2,7 @@
   <br/>
   <h1>Estevam Carnecine</h1>
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Bem-vindo+ao+meu+GitHub;Welcome+to+my+GitHub;[root@estevam:~]%23+_" alt="Terminal Welcome" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=550&lines=Bem-vindo+ao+meu+GitHub+;Welcome+to+my+GitHub+;_&background=00000000" alt="Terminal Welcome" />
 </div>
 
 <br />
