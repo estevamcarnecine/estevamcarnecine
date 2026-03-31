@@ -1,52 +1,71 @@
-# Olá, eu sou o Estevam Carnecine! 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Estevam%20Carnecine&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
+</div>
 
-### 🎓 Estudante de ADS (UNIP) | Desenvolvedor Backend & Fullstack | Professor de Inglês
+<div align="center">
+  <h3>👋 Olá! Eu sou o Estevam</h3>
+  <p>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Backend+Developer+Intern;Java+%26+Spring+Boot+Enthusiast;English+Teacher;ADS+Student+at+UNIP" alt="Typing SVG" />
+  </p>
+</div>
 
+---
+
+### 📖 Sobre Mim
 Atualmente no 3º semestre de **Análise e Desenvolvimento de Sistemas**, foco meus estudos no ecossistema **Java/Spring Boot** e tecnologias modernas de frontend como **Next.js**. Unindo minha experiência com o idioma inglês e a paixão por arquitetura de software, busco minha primeira oportunidade como Desenvolvedor Backend / Estagiário.
 
 ---
 
-## 🛠️ No que estou trabalhando hoje:
+### 🛠️ Tech Stack & Tools
 
-- **Backend:** Construindo APIs RESTful robustas com **Spring Boot** e explorando bancos de dados **NoSQL (MongoDB)** e **Relacionais (PostgreSQL/MySQL)**.
-- **Fullstack:** Contribuindo para o **WhaleBuddy**, utilizando a **T3 Stack** (Next.js, TypeScript, tRPC, Drizzle ORM).
-- **Acadêmico:** Cursando tecnólogo de forma híbrida, unindo teoria e prática para resolver problemas reais de software.
-
----
-
-## 📂 Projetos em Destaque
-
-### 🐳 [WhaleBuddy](https://github.com/estevamcarnecine/WhaleBuddy)
-Projeto Open Source Fullstack focado em produtividade.
-* **Tech Stack:** Next.js, TypeScript, tRPC, Drizzle ORM, PostgreSQL e Docker.
-
-### ♟️ [Sistema de Jogo de Xadrez](https://github.com/estevamcarnecine/chess-system-java)
-Aplicação completa de Xadrez desenvolvida em Java.
-* **Destaque:** Aplicação profunda de **POO (Programação Orientada a Objetos)** e Design Patterns.
-
-### 🍃 [API de Rede Social/Blog](https://github.com/estevamcarnecine/workshop-springboot3-mongodb)
-API escalável utilizando **Spring Boot 3** e **MongoDB**.
-* **Destaque:** Implementação de padrões REST e persistência NoSQL.
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,ts,nextjs,nodejs,mongodb,postgres,docker,git,cs,py" />
+  </a>
+</p>
 
 ---
 
-## 🔧 Skills & Ferramentas
+### 📂 Projetos em Destaque
 
-**Linguagens:**
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-**Frameworks & Tecnologias:**
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🐳 <a href="https://github.com/estevamcarnecine/WhaleBuddy">WhaleBuddy</a></h4>
+      <p>Projeto Open Source Fullstack focado em produtividade.</p>
+      <code>Next.js</code> <code>tRPC</code> <code>Drizzle</code> <code>PostgreSQL</code>
+    </td>
+    <td width="50%" valign="top">
+      <h4>♟️ <a href="https://github.com/estevamcarnecine/chess-system-java">Chess System</a></h4>
+      <p>Aplicação de Xadrez completa para testar lógica e POO.</p>
+      <code>Java</code> <code>POO</code> <code>Design Patterns</code>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📫 Conecte-se comigo:
+### 📊 My GitHub Stats
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=estevamcarnecine&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estevamcarnecine&layout=compact&theme=tokyonight"/>
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/estevam-carnecine-silva-70a2b7383/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:estvmc@gmail.com)
+---
+
+### 📫 Conecte-se comigo:
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/estevam-carnecine-silva-70a2b7383/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:estvmc@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" width="100%" />
+</div>
