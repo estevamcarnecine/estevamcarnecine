@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Estevam Carnecine</h1>
-  <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=ffffff&center=true&vCenter=true&width=500&lines=Welcome+to+my+Github!+/+Bem-vindo+ao+meu+Github!" alt="Typing SVG" />
+  <p align="center" style="font-size: 40px;">
+    ☕
   </p>
 </div>
 
