@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Estevam Carnecine</h1>
-  <p align="center" style="font-size: 40px;">
-    ☕
+  <p align="center">
+    Bem-vindo ao meu GitHub (Welcome to my GitHub) :)
   </p>
 </div>
 
@@ -14,7 +14,9 @@ Estudante de **Análise e Desenvolvimento de Sistemas (UNIP)** no 3º semestre. 
 
 ### 💻 Stack & Ferramentas
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,ts,nextjs,mongodb,postgres,docker,git,maven,mysql&theme=dark" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,ts,nextjs,mongodb,postgres,docker,git,maven,mysql&theme=dark" />
+  </a>
 </div>
 
 ---
