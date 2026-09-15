@@ -1,33 +1,21 @@
-<div align="center">
-  <br/>
-  <h1>Estevam Carnecine</h1>
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=550&lines=Bem-vindo+ao+meu+GitHub+;Welcome+to+my+GitHub+;_&background=00000000" alt="Terminal Welcome" />
-</div>
-
-<br />
-
-### 📖 Sobre
-Estudante de **Análise e Desenvolvimento de Sistemas (UNIP)** no 3º semestre. Focado no ecossistema **Java** e em arquiteturas modernas. Em transição de carreira para tecnologia, aplicando fluência em inglês e resolução de problemas na construção de sistemas robustos.
+# Estevam Carnecine
 
 ---
 
-### 💻 Stack & Ferramentas
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,ts,nextjs,mongodb,postgres,docker,git,maven,mysql&theme=dark" />
-</div>
+### 📖 Sobre
+
+Professor de inglês em transição de carreira e estudante de Análise e Desenvolvimento de Sistemas (UNIP). Em busca da minha primeira oportunidade profissional na área de tecnologia (estágio / júnior), combinando fluência em inglês, comunicação assertiva e foco no ecossistema Java para a construção de soluções eficientes e escaláveis.
+
+---
+
+### 💻 Stack & Tecnologias
+
+* **Linguagens & Backend:** Java, Spring Boot, TypeScript, Next.js
+* **Bancos de Dados:** PostgreSQL, MongoDB, MySQL
+* **DevOps & Ferramentas:** Docker, Git
 
 ---
 
 ### 📫 Contato
-<div align="center">
-  <a href="https://www.linkedin.com/in/estevam-carnecine-silva-70a2b7383/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-white?style=flat-square&logo=linkedin&logoColor=black" />
-  </a>
-  &nbsp;
-  <a href="mailto:estvmc@gmail.com">
-    <img src="https://img.shields.io/badge/Email-white?style=flat-square&logo=gmail&logoColor=black" />
-  </a>
-</div>
 
-<br />
+[LinkedIn](https://linkedin.com/in/SEU_LINKEDIN) • [Email](mailto:seuemail@exemplo.com)
