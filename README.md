@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Professor+de+Ingl%C3%AAs+%7C+Estudante+de+ADS;Em+busca+da+primeira+oportunidade+em+TI;Foco+em+Java+%26+Spring+Boot" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=450&lines=bem+vindo+ao+meu+github!+%3A-%29" alt="Typing SVG" />
   </a>
 </div>
 
@@ -10,7 +10,7 @@
 
 ### 📖 Sobre
 
-Professor de inglês em transição de carreira e estudante de Análise e Desenvolvimento de Sistemas (UNIP). Em busca da minha primeira oportunidade profissional na área de tecnologia (estágio / júnior), combinando fluência em inglês, comunicação assertiva e foco no ecossistema Java para a construção de soluções eficientes e escaláveis.
+Em transição de carreira e estudante de Análise e Desenvolvimento de Sistemas (UNIP). Em busca de me aprofundar na área de tecnologia (estágio / júnior), combinando fluência em inglês, comunicação assertiva e foco no ecossistema Java para a construção de soluções eficientes e escaláveis.
 
 ---
 
